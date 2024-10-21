@@ -1,4 +1,4 @@
-# Hi, I'm Hudson! 👋
+## Hi, I'm Hudson! 👋
 
 Welcome to my portfolio! I'm a passionate software developer currently focusing on backend development, especially using **TypeScript** and **Node.js**. Here, you can find more about me, the projects I've worked on, and how to get in touch.
 
