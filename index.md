@@ -50,8 +50,6 @@ Feel free to reach out if you'd like to discuss new opportunities, collaboration
 [<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/huddmax)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hudson-machado-03346024b)
 
-- **GitHub**: [github.com/yourusername](https://github.com/yourusername)
-
 ---
 
 Thanks for stopping by! 😊
