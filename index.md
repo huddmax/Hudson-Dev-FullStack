@@ -22,7 +22,7 @@ In addition to my technical work, I'm also improving my **English skills** and p
 
 Here are a few examples of the projects I’ve been working on:
 
-### [Project: Food Explorer](https://github.com/yourusername/food-explorer)
+### [Project: Food Explorer](https://github.com/huddmax/food-explorer)
 An interactive restaurant menu application with both user and admin functionalities. Users can browse dishes, while admins can create, update, or delete dishes. The app also supports:
 - JWT Authentication for secure login
 - Image upload functionality for dish pictures
@@ -32,7 +32,7 @@ An interactive restaurant menu application with both user and admin functionalit
 
 ---
 
-### [Project: Useful Links Hub](https://github.com/yourusername/useful-links-hub)
+### [Project: Useful Links Hub](https://github.com/huddmax/useful-links-hub)
 A simple web application that allows users to store and organize useful links in different categories. It features:
 - Frontend built with React
 - Backend built using Node.js and Express
@@ -42,19 +42,14 @@ A simple web application that allows users to store and organize useful links in
 
 ---
 
-### [Project: Automated Startup System](https://github.com/yourusername/auto-center)
-A project focused on automating operations for a startup, with an emphasis on object-oriented architecture and functional/non-functional requirements.
-
-**Technologies Used**: C#, .NET, PostgreSQL, Entity Framework
-
----
-
 ## Get in Touch
 
 Feel free to reach out if you'd like to discuss new opportunities, collaboration, or just to chat about tech! Here are the best ways to connect with me:
 
-- **Email**: [youremail@example.com](mailto:youremail@example.com)
-- **LinkedIn**: [linkedin.com/in/yourusername](https://www.linkedin.com/in/yourusername/)
+
+[<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/huddmax)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hudson-machado-03346024b)
+
 - **GitHub**: [github.com/yourusername](https://github.com/yourusername)
 
 ---
