@@ -22,7 +22,7 @@ In addition to my technical work, I'm also improving my **English skills** and p
 
 Here are a few examples of the projects I’ve been working on:
 
-### [Project: Food Explorer](https://github.com/huddmax/food-explorer)
+### [Project: Food Explorer](https://github.com/huddmax/food-ex)
 An interactive restaurant menu application with both user and admin functionalities. Users can browse dishes, while admins can create, update, or delete dishes. The app also supports:
 - JWT Authentication for secure login
 - Image upload functionality for dish pictures
@@ -32,15 +32,6 @@ An interactive restaurant menu application with both user and admin functionalit
 
 ---
 
-### [Project: Useful Links Hub](https://github.com/huddmax/useful-links-hub)
-A simple web application that allows users to store and organize useful links in different categories. It features:
-- Frontend built with React
-- Backend built using Node.js and Express
-- REST API and SQLite database integration
-
-**Technologies Used**: React, Node.js, Express, SQLite
-
----
 
 ## Get in Touch
 
